@@ -8,3 +8,27 @@ body {
 .table-white {
     background-color: white !important;
 }
+
+.bg-wood {
+    background-image: url('images/wood.jpg');
+}
+
+.bg-wood2 {
+    background-image: url('images/wood2.jpg');
+}
+
+.bg-brown {
+    background-color: #996633;
+}
+
+.right-text {
+    text-align: right;
+}
+
+.accordion-button::after {
+    display: none;
+}
+
+.accordion-button:focus, .accordion-button {
+    border: none;
+}
