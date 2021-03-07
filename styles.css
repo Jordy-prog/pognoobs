@@ -88,3 +88,14 @@ body {
 .table-draw {
     background-color: rgb(251, 251, 106) !important;
 }
+
+.table-success {
+    --bs-table-bg: rgb(150, 225, 175);
+    --bs-table-striped-bg: rgb(150, 225, 175);
+    --bs-table-striped-color: #000;
+    --bs-table-active-bg: rgb(150, 225, 175);
+    --bs-table-active-color: #000;
+    --bs-table-hover-bg: rgb(150, 225, 175);
+    --bs-table-hover-color: #000;
+    color: #000;
+}
