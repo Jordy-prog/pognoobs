@@ -88,3 +88,11 @@ body {
 .table-draw {
     background-color: rgb(251, 251, 106) !important;
 }
+
+.zoom {
+    transition: transform .2s;
+}
+
+.zoom:hover {
+    transform: scale(1.1);
+}
