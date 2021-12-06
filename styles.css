@@ -21,6 +21,14 @@ body {
     background-color: #996633;
 }
 
+.bg-cyan {
+    background-color: #16a2b8;
+}
+
+.bg-cyan-clicked {
+    background-color: #127a8b;
+}
+
 .right-text {
     text-align: right;
 }
