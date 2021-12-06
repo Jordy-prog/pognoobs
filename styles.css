@@ -22,11 +22,11 @@ body {
 }
 
 .bg-cyan {
-    background-color: #16a2b8;
+    background-color: #16a2b8 !important;
 }
 
 .bg-cyan-clicked {
-    background-color: #127a8b;
+    background-color: #127a8b !important;
 }
 
 .right-text {
